@@ -12,7 +12,13 @@ export class AsteroidManipulator {
   states: {};
 
   owner: null;
+
   public keyboard;
+
+  defaultSets = [
+    'aup adown aleft aright ctrl'.split(' '),
+    'w s a d shift'.split(' '),
+  ];
 
   public initialize(keys) {
     this.keyboard = new atom.Keyboard();
