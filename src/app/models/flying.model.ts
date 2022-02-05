@@ -1,4 +1,4 @@
-/** @class Ast.Flying */
+// /** @class Ast.Flying */
 
 declare var atom: any;
 

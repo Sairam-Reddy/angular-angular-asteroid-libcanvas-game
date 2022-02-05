@@ -1,4 +1,4 @@
-/** @class Ast.Bullet */
+// /** @class Ast.Bullet */
 declare var atom: any;
 
 atom.declare('Ast.Bullet', Ast.Flying, {

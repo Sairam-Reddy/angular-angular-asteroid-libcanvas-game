@@ -1,4 +1,5 @@
 import { Component, VERSION } from '@angular/core';
+import { AstController } from './models/controller.model';
 
 declare var atom: any;
 declare var LibCanvas: any;
@@ -56,7 +57,7 @@ export class AppComponent {
     LibCanvas.extract();
 
     atom.dom(function () {
-      new Ast.Controller();
+      new AstController();
     });
   }
 }

@@ -1,5 +1,5 @@
 /* Manipulator */
-/** @class Ast.Manipulator */
+// /** @class Ast.Manipulator */
 declare var atom: any;
 
 atom.declare('Ast.Manipulator', {

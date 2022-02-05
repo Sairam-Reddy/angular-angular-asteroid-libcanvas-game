@@ -1,6 +1,6 @@
 /* Stones */
 
-/** @class Ast.Stones.Set */
+// /** @class Ast.Stones.Set */
 
 declare var atom: any;
 

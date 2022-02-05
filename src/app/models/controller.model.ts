@@ -1,9 +1,9 @@
 /* Controller */
-/** @class Ast.Controller */
+// /** @class Ast.Controller */
 
 declare var atom: any;
 
-atom.declare('Ast.Controller', {
+export class AstController = atom.declare('Ast.Controller', {
   settings: {
     showShapes: true,
     fieldSize: new Size(800, 500),

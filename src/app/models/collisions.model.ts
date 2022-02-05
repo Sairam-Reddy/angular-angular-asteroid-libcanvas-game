@@ -1,6 +1,6 @@
 /* Collisions  */
 
-/** @class Ast.Collisions */
+// /** @class Ast.Collisions */
 
 declare var atom: any;
 

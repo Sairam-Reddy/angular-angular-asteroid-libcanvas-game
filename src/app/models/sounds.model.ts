@@ -1,4 +1,4 @@
-/** @class Ast.Sounds */
+// /** @class Ast.Sounds */
 declare var atom: any;
 
 atom.declare('Ast.Sounds', {

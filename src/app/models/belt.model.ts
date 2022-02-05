@@ -1,4 +1,4 @@
-/** @class Ast.Belt */
+// /** @class Ast.Belt */
 declare var atom: any;
 
 atom.declare('AstBelt', {
