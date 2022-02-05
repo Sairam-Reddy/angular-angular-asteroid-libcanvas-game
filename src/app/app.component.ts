@@ -65,11 +65,7 @@ export class AppComponent {
 
    
 
-    Ast.Manipulator.defaultSets = [
-      'aup adown aleft aright ctrl'.split(' '),
-      'w s a d shift'.split(' '),
-    ];
-    /* Manipulator */
+    
 
     /* Stones */
 
