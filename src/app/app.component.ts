@@ -431,10 +431,7 @@ export class AppComponent {
     });
     /* Stones */
 
-    /* Bomber  */
-    /** @class Ast.Bomber */
-    declare('Ast.Bomber', {});
-    /* Bomber  */
+   
 
     /** @class Ast.Explosion */
     declare('Ast.Explosion', App.Element, {
