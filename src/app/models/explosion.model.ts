@@ -1,5 +1,6 @@
-/** @class Ast.Explosion */
+/* Explosion */
 
+/** @class Ast.Explosion */
 declare var atom: any;
 
 atom.declare('Ast.Explosion', App.Element, {
