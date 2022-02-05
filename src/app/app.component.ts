@@ -58,10 +58,5 @@ export class AppComponent {
     atom.dom(function () {
       new Ast.Controller();
     });
-
-    
-
-   
-    
   }
 }
